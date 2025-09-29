@@ -1,3 +1,5 @@
+<p align="Center" ><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width ="400px"></p>
+<br>
 Hello! I'm Peng Tao. 🏃🏻‍♂️
 
 <picture>
