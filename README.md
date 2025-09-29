@@ -1,9 +1,9 @@
-<p align="Center" ><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width ="400px"></p>
+<p align="Center">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width ="400px">
+</p>
 
-<h1 align="Center">
 <h1 align="center">Hi 👋, I'm Song Yang</h1>
-<h3 align="center">A passionate developer from China 🏃🏻‍♂️</h3></h1>
-<br>
+<h3 align="center">A passionate developer from China 🏃🏻‍♂️</h3>
 
 <picture>
   <source
@@ -20,17 +20,16 @@
   />
 </picture>
 
+### 👨‍💻 About Me :
 
-### 👨‍💻  About Me :
-- 👨🏻‍💻 I'm a Computer Science enthusiast . I specialize in technologies like PHP, Java, React, and I'm always eager to learn more 
+- 👨🏻‍💻 I'm a Computer Science enthusiast . I specialize in technologies like PHP, Java, React, and I'm always eager to learn more
 - 🌱 I’m currently working on technologies like Symfony , React , SpringBoot, etc
 - 🤔 I’m looking for help in learning about Web3 and Frontend
-- 💬 Ask me about anything and everything 
+- 💬 Ask me about anything and everything
 - 📫 How to reach me: &nbsp;songyang410@outlook.com
 
+### 🛠️ Languages and Tools :
 
-
-### 🛠️  Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
